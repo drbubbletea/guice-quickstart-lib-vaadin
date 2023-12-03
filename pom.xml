@@ -13,6 +13,7 @@
     <version>0.1.0</version>
 
     <name>lib-vaadin</name>
+    <url>https://github.com/drbubbletea/guice-quickstart-lib-vaadin</url>
 
     <properties>
     </properties>
