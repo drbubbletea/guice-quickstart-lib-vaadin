@@ -15,6 +15,13 @@
     <name>lib-vaadin</name>
     <url>https://github.com/drbubbletea/guice-quickstart-lib-vaadin</url>
 
+    <licenses>
+        <license>
+            <name>MIT No Attribution</name>
+            <comments>Copy of the license provided in the 'LICENSE' file</comments>
+        </license>
+    </licenses>
+
     <properties>
     </properties>
 
